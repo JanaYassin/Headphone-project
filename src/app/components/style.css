@@ -158,6 +158,7 @@
 
     .main-body{
         width:100%;
+        overflow-x: hidden;
     }
      .Header{
         width:100%;
