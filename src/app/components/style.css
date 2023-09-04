@@ -312,6 +312,9 @@
     margin-left:100px;
     font-size:15px;
 }
+.details-part{
+    margin-bottom:-60%;
+}
 .blue-bg {
     margin-top:200%;
 }
@@ -342,6 +345,9 @@
     margin-top:-30%;
 }
 
+.types p{
+    width:80%;
+}
    
 .feedback-part h1{
     font-size:20px;
@@ -349,7 +355,7 @@
 
 .feedback-part p{
     font-size:15px;
-    width:100%;
+    width:80%;
 }
 
 .feedback-part span{
