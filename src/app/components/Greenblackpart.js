@@ -13,8 +13,9 @@ function Greenblackpart() {
           <button className="custom-rounded-button bg-white text-orange-600 text-[13px] w-36 ml-[200px] mt-4 mb-28 px-6 py-2 hover:bg-orange-400">
             LEARN MORE
           </button>
-          
+
         </div>
+        
         <div className="black-part flex-1 bg-black flex items-center justify-center green-text ">
           <p className="watch-word text-[30px] font-bold mb-8">Watch
             <span className='video '></span>
